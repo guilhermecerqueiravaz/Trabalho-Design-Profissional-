@@ -36,4 +36,4 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[Analisar a transformação de empresas tradicionais por meio da adoção de tecnologias digitais]` | `[sim]` |
