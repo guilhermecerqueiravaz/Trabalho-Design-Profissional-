@@ -36,4 +36,4 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[Analisar a transformação de empresas tradicionais por meio da adoção de tecnologias digitais]` | `[sim]` |
+| `[Gustavo de Morais Rodrigues, Guilherme Cerqueira Vaz, Guilherme Sampaio Lopes, Gustavo da Silva Santos]` | `[sim]` |
