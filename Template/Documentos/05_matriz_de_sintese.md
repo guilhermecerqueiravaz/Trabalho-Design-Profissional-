@@ -34,7 +34,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Síntese crítica provisória
 
-`\[Os estudos demonstram que a mudança digital em empresas e organização exige uma reestruturação culturais e tecnológicas. Os estudos comprovam ganhos expressivos de eficiência e otimização do cliente.]`
+`\[Os estudos demonstram que a mudança digital em empresas e organização exige uma reestruturação cultural e tecnológicas. Os estudos comprovam ganhos expressivos de eficiência e otimização do cliente.]`
 
 ## Checklist
 
