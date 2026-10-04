@@ -6,22 +6,22 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. `\[Eixo ou subtema 1]`
-2. `\[Eixo ou subtema 2]`
+1. `\[Barreiras Culturais e Resistência à Mudança]`
+2. `\[Impactos na Eficiência Operacional e Desempenho]`
 3. `\[Eixo ou subtema 3, se necessário]`
 
 ## Matriz de síntese
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`\[preencher]`|`\[autores/anos]`|`\[preencher]`|`\[preencher]`|`\[preencher]`|`\[preencher]`|
+|`\[Desafios Estruturais e Culturais]`|`\[Guilherme, 2026; Gustavo, 2026]`|`\[Demonstra a resistência dos colaboradores e a cultura como o principal obstáculos]`|`\[Gustavo foca na transição repentina de empresas tradicionais; Guilherme foca nos desempenho estrategico.]`|`\[os eixo foca em qualidade de resistencia sem muitos dados presente]`|`\[Pouca exploração sobre planos práticos de gestão de mudança]`|
 
 ## Roteiro da revisão da literatura
 
 ### Eixo 1
 
-* Ideia principal: `\[preencher]`
-* Evidências que serão usadas: `\[preencher]`
+* Ideia principal: `\[A mudança de métodos dentro de empresas com forte resistência humana no processo de mudanças.]`
+* Evidências que serão usadas: `\[Fichamento do Guilherme e do Gustavo Morais]`
 * Comparação entre estudos: `\[preencher]`
 * Ligação com o problema: `\[preencher]`
 
