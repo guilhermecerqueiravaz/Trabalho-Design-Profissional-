@@ -6,11 +6,11 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo. 500 a
 
 # Título
 
-`\\\[Título claro e coerente com o tema]`
+`\\\[Impacto Social da Tecnologia em empresas arcaicas]`
 
 ## Palavras-chave
 
-`\\\[palavra 1]; \\\[palavra 2]; \\\[palavra 3]`
+`\\\[Tecnologia]; \\\[empresas]; \\\[Mudança]`
 
 ## Introdução
 
