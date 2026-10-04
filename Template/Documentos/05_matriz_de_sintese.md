@@ -14,15 +14,15 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`\[Desafios Estruturais e Culturais]`|`\[Guilherme, 2026; Gustavo, 2026]`|`\[Demonstra a resistência dos colaboradores e a cultura como o principal obstáculos]`|`\[Gustavo foca na transição repentina de empresas tradicionais; Guilherme foca nos desempenho estrategico.]`|`\[os eixo foca em qualidade de resistencia sem muitos dados presente]`|`\[Pouca exploração sobre planos práticos de gestão de mudança]`|
+|`\[Desafios Estruturais e Culturais]`|`\[Guilherme, 2026; Gustavo, 2026]`|`\[Demonstra a resistência dos colaboradores e a cultura como o principal obstáculos]`|`\[Gustavo de Morais foca na transição repentina de empresas tradicionais; Guilherme foca nos desempenho estrategico.]`|`\[os eixo foca em qualidade de resistencia sem muitos dados presente]`|`\[Pouca exploração sobre planos práticos de gestão de mudança]`|
 
 ## Roteiro da revisão da literatura
 
 ### Eixo 1
 
 * Ideia principal: `\[A mudança de métodos dentro de empresas com forte resistência humana no processo de mudanças.]`
-* Evidências que serão usadas: `\[Fichamento do Guilherme e do Gustavo Morais]`
-* Comparação entre estudos: `\[preencher]`
+* Evidências que serão usadas: `\[Fichamento do Guilherme e do Gustavo de Morais]`
+* Comparação entre estudos: `\[no estudo do Gustavo de morais se trata do impacto das empresas com as mudanças repentinas e na rotina dos colaboradores; no estudo do Guilherme fala sobre a resistencia no desempenho organizacional dentro dessas empresas ]`
 * Ligação com o problema: `\[Demonstra a dificuldade em mudar algumas empresas para o plano digital]`
 
 ### Eixo 2
