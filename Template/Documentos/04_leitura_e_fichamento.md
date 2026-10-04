@@ -38,7 +38,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Limitações apresentadas
 
-`\[O estudo não traz uma seção específica apontando as limitações do próprio método.]`
+`\[A única limitação dita no artigo seria a limitação dentro da empresa com a resistencia a mudança.]`
 
 ### Contribuição para o nosso artigo
 
