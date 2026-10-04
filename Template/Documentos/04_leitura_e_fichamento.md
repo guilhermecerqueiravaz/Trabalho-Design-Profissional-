@@ -46,7 +46,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Comentário crítico
 
-`\[O artigo usa outros artigos para se desnvolver, dessa maneira sendo um artigo básico e superficial.]`
+`\[O artigo usa outros artigos para se desenvolver, dessa maneira sendo um artigo básico e superficial.]`
 
 ### Citação literal opcional
 
