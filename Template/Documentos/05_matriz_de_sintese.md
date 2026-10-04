@@ -23,7 +23,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 * Ideia principal: `\[A mudança de métodos dentro de empresas com forte resistência humana no processo de mudanças.]`
 * Evidências que serão usadas: `\[Fichamento do Guilherme e do Gustavo Morais]`
 * Comparação entre estudos: `\[preencher]`
-* Ligação com o problema: `\[preencher]`
+* Ligação com o problema: `\[Demonstra a dificuldade em mudar algumas empresas para o plano digital]`
 
 ### Eixo 2
 
