@@ -27,14 +27,14 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 2
 
-* Ideia principal: `\[preencher]`
-* Evidências que serão usadas: `\[preencher]`
-* Comparação entre estudos: `\[preencher]`
-* Ligação com o problema: `\[preencher]`
+* Ideia principal: `\[estudos sobre a troca para tecnologias digitais utilizando a empresa Itaú como exemplo principal]`
+* Evidências que serão usadas: `\[Fichamento de Guilherme e Gustavo Santos]`
+* Comparação entre estudos: `\[a comparação seria voltado mais para o tema que realmente seria a tecnologia digital mas o tema do Gustavo utiliza um exemplo que é a empresa Itau ja o de Guilherme é mais voltado para o desempenho organizacional que acontece dentro dessas empresas]`
+* Ligação com o problema: `\[mostra como as tecnologias utilizando como exemplo a empresa Itaú mostrando a sua experiencia com a troca do cotidiano com a tecnologia digital]`
 
 ## Síntese crítica provisória
 
-`\[Escreva um parágrafo indicando tendências, divergências e lacunas.]`
+`\[Os estudos demonstram que a mudança digital em empresas e organização exige uma reestruturação culturais e tecnológicas. Os estudos comprovam ganhos expressivos de eficiência e otimização do cliente.]`
 
 ## Checklist
 
