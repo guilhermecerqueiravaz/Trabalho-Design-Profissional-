@@ -18,7 +18,7 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo. 500 a
 
 ## Metodologia
 
-`\\\[Informe o tipo de revisão, bases, estratégias de busca, período, critérios, triagem e forma de análise.]`
+`\\\[Este trabalho foi feito com a pesquisas em outros artigos bibliográficos com o tema parcialmente parecidos, as busca foi feito em sites de artigos científico (google academy ]`
 
 ## Revisão da literatura
 
