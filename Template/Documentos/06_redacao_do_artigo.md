@@ -14,7 +14,7 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo. 500 a
 
 ## Introdução
 
-`\\\[Apresente contexto, foco, problema ou lacuna, justificativa e objetivo.]`
+`\\\[Com o avanço da Tecnologia algumas empresas tem ficado desatualizadas com os métodos atuais, com as Tecnologias tendo mudança nos padrões produtivos e operacionais. Com base nisso, empesas e organização que tem como foco processos tradicionais e com processos arcaicos enfrentam dificuldades para se adaptar dentro as exigências da transformação digital. O problema central seria em compreender e inserir essas tecnologia nessas empresas dessa maneira tendo o foco em introduzir sistemas e tecnologias que podem impactar e modificar as relações de trabalho e a dinâmica social interna nas empresas, tendo em conta a dificuldade que pode abranger para funcionários com menos conhecimento dessas tecnologias atuais. Ao inserir essas tecnologia as empresas conseguem se inovar e determinada área dessa maneira conseguindo se inserir no mercado e para sustentabilidade da empresa e o social dos trabalhadores envolvidos. O objetivo principal deste artigo é analisar o impacto social provocado pela adaptação de novas tecnologias na rotina profissional e nas empresas de métodos arcaicos.]`
 
 ## Metodologia
 
