@@ -18,7 +18,7 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo. 500 a
 
 ## Metodologia
 
-`\\\[Este trabalho foi feito com a pesquisas em outros artigos bibliográficos com o tema parcialmente parecidos, as busca foi feito em sites de artigos científico (google acadêmico e o Researchgate), com preferencias em artigos com a publicação no período entre 2018 e 2026. As preferencias para busca dos artigos foi os temas "tecnologia", "empresas tradicionais", "transformação digital" e "impacto social". ]`
+`\\\[Este trabalho foi feito com a pesquisas em outros artigos bibliográficos com o tema parcialmente parecidos, as busca foi feito em sites de artigos científico (google acadêmico e o Researchgate), com preferencias em artigos com a publicação no período entre 2021 e 2026. As preferencias para busca dos artigos foi os temas "tecnologia", "empresas tradicionais", "transformação digital" e "impacto social". A montagem do artigo tem base em leitura e comparação entre os artigos selecionados, refletindo entre os artigos para montar e desenvolver o artigo proposto. ]`
 
 ## Revisão da literatura
 
