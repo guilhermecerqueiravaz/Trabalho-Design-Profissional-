@@ -1,4 +1,4 @@
-# Etapa 6 Redação do artigo
+-# Etapa 6 Redação do artigo
 
 ## Solicitação
 
@@ -29,7 +29,7 @@ As empresas com dificuldade em poder se atualização não por serem incapacidad
 
 ### `\\\[Eixo 2]`
 
-`\\\[ Muitas empresas já adotaram tecnologias para melhorar e acelerar processos como o Itaú fez ao implementar uma IA para ajudar a dinamizar transações," o pix no WhatsApp torna a experiencia de pagamento ainda mais fluida e rápida, sem necessidade de abrir o superapp." mas a implementaçao nao trouxe so essa funçao de agilizar o pix, "so itau opera mais de 1,3 mil agentes IA integrados a varias areas como analise de risco de créditos, atendimento automatizado e ferramentas de apoio a desenvolvedores (como o GitHub copilot)" .]`
+`\\\[ Muitas empresas já adotaram tecnologias para melhorar e acelerar processos como o Itaú fez ao implementar uma IA para ajudar a dinamizar transações," o pix no WhatsApp torna a experiencia de pagamento ainda mais fluida e rápida, sem necessidade de abrir o superapp." mas a implementação nao trouxe so essa funçao de agilizar o pix, "so itau opera mais de 1,3 mil agentes IA integrados a varias areas como analise de risco de créditos, atendimento automatizado e ferramentas de apoio a desenvolvedores (como o GitHub copilot)" ja em outras empresas antigas tem mais dificuldade de entrar de cabeça na tecnlogia as vezes por medo de passar seus dados para um novo sistema podendo causar um sobre carregamento ocasionando uma paralização temporária do sistema da empresa causando algum tipo e prejuízo .]`
 
 ### Síntese crítica
 
