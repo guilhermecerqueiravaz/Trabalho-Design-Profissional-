@@ -24,11 +24,12 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo. 500 a
 
 ### `\\\[Eixo 1]`
 
-`\\\[Compare estudos, resultados, métodos e limitações.]`
+`\\\[Desafios Estruturais e culturais 
+As empresas com dificuldade em poder se atualização não por serem incapacidade de receber as renovações, mas sim por resistência humana, as empresa para poder continuar  no mercado como umas das empresas destaque precisão sempre se renovarem nas suas tecnologias e serem destaque, com o problema de resistência humana as empresas não pode competir, entre duas divergências com "Gustavo de morais com transição repentina de empresas" ou com "Guilherme com foca no desempenho estratégico" com as divergências do Guilherme podemos concluir que é um começo de um sistemas para poder acabar com o desperdiço  de tempo e poder organizar completamente o tempo dos colaboradores e poder otimizar o tempo deles no trabalho podendo fazer a empresa concluir suas metas e se destacar no mercado por eficiência no seu serviço, com a divergência do Gustavo podemos concorda que é uma mudança drástica para os seus funcionais para poder fazer com que eles já fiquem mas próximos da nova forma da empresa e possam ser mas agíeis e práticos com seus serviços.]`
 
 ### `\\\[Eixo 2]`
 
-`\\\[Compare estudos, resultados, métodos e limitações.]`
+`\\\[ Muitas empresas já adotaram tecnologias para melhorar e acelerar processos como o Itaú fez ao implementar uma IA para ajudar a dinamizar transações," o pix no WhatsApp torna a experiencia de pagamento ainda mais fluida e rápida, sem necessidade de abrir o superapp." mas a implementaçao nao trouxe so essa funçao de agilizar o pix, "so itau opera mais de 1,3 mil agentes IA integrados a varias areas como analise de risco de créditos, atendimento automatizado e ferramentas de apoio a desenvolvedores (como o GitHub copilot)" .]`
 
 ### Síntese crítica
 
