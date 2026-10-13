@@ -6,7 +6,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Identificação
 
-* Título do artigo: `\[preencher]`
+* Título do artigo: `\[Impacto Social da Tecnologia em empresas arcaicas]`
 * Versão revisada: `\[1]`
 * Data: `\[13/10/2026]`
 * Responsável pela conferência final: `\[Guilherme Cerqueira vaz]`
