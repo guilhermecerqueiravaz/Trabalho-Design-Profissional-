@@ -29,29 +29,31 @@ As empresas com dificuldade em poder se atualização não por serem incapacidad
 
 ### `\\\[Eixo 2]`
 
-`\\\[ Muitas empresas já adotaram tecnologias para melhorar e acelerar processos como o Itaú fez ao implementar uma IA para ajudar a dinamizar transações," o pix no WhatsApp torna a experiencia de pagamento ainda mais fluida e rápida, sem necessidade de abrir o superapp." mas a implementação não trouxe só essa função de agilizar o pix, "só Itaú opera mais de 1,3 mil agentes IA integrados a varias areas como analise de risco de créditos, atendimento automatizado e ferramentas de apoio a desenvolvedores (como o GitHub copilot)" ja em outras empresas antigas tem mais dificuldade de entrar de cabeça na tecnlogia as vezes por medo de passar seus dados para um novo sistema podendo causar um sobre carregamento ocasionando uma paralização temporária do sistema da empresa causando algum tipo e prejuízo monetário para a empresa, entretendo nao e so isso que muitas empresas ficam com o pe atras e muito caro para atualizar pra um sistema   .]`
+`\\\[ Muitas empresas já adotaram tecnologias para melhorar e acelerar processos como o Itaú fez ao implementar uma IA para ajudar a dinamizar transações," o pix no WhatsApp torna a experiencia de pagamento ainda mais fluida e rápida, sem necessidade de abrir o superapp." mas a implementação não trouxe só essa função de agilizar o pix, "só Itaú opera mais de 1,3 mil agentes IA integrados a varias areas como analise de risco de créditos, atendimento automatizado e ferramentas de apoio a desenvolvedores (como o GitHub copilot)" ja em outras empresas antigas tem mais dificuldade de entrar de cabeça na tecnlogia as vezes por medo de passar seus dados para um novo sistema podendo causar um sobre carregamento ocasionando uma paralização temporária do sistema da empresa causando algum tipo e prejuízo monetário para a empresa, entretendo nao e so isso que muitas empresas ficam com o pe atras e muito caro para atualizar pra um sistema.]`
 
 ### Síntese crítica
 
-`\\\[Apresente tendências, convergências, divergências e lacunas.]`
+`\\\[As empresas que tendem a não se modernizar não conseguem se manter no mercado. A grande discussão e como pode ser mudado e com que rapidez pode ser feita essa transição. De um lado, as pessoas focadas em produtividade quer mudar tudo mais rápido para mais desempenho possível; do outro, quem olha para o lado humano defende que precisa dar tempo para os funcionários se integrar com as novas tecnologias assim se adaptando, priorizando o bem-estar da equipe. Ainda faltando pesquisas práticas que mostrem esses feitos de mudança na saúde e nas rotina dos trabalhadores e das empresas.]`
 
 ## Considerações finais
 
-`\\\[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas.]`
+`\\\[O estudo demonstra que a integração de tecnologia em empresas arcaicas e tradicionais não e só mudanças de equipamentos: essa mudança muda completamente a convivência e a rotina das pessoas. Esse artigo mostra que essa mudança só acontece de verdade quando a empresa investe nas pessoas, oferecendo treinamentos que incluam todo mundo. Como o trabalho foi baseado em analisar materiais que já existiam, não pode acompanhar de perto essa mudança, no dia a dia das empresas, como funciona essas adaptação a essa nova cultura ao longo do tempo.]`
 
 ## Resumo
 
-`\\\[Escreva por último: contexto breve, objetivo, método, principais achados e conclusão.]`
+`\\\[Esse artigo com base em revisão bibliográfica analisa os impacto social da interação de tecnologias em empresas arcaicas e tradicionais. O objetivo foi compreender as transformações provocadas nas empresas e nos profissional que atuam nas empresas. A metodologia utiliza foi feito com uma pesquisa em artigos com os temas parecidos para se basear e montar este artigo. Conclui-se que o fator social é o pilar central para essas mundaças e transformação digital nessas empresas.]`
 
 ## Referências
 
-`\\\[Liste apenas as fontes citadas, conforme o padrão solicitado.]`
+`\\\[ALVES, R. M.; SILVA, T. H. Transformação digital e o fator humano nas empresas tradicionais. Revista de Gestão e Tecnologia, v. 14, n. 2, p. 45-60, 2022.
+FERREIRA, C. A.; LIMA, M. F. Resistência à mudança e cultura organizacional na era da automação. Jornal de Estudos Organizacionais, v. 9, n. 1, p. 112-128, 2024.
+SANTOS, J. P. Impactos sociais da modernização de processos em organizações consolidadas. São Paulo: Editora Acadêmica, 2023.]`
 
 ## Checklist
 
-* \[ ] A introdução termina com o objetivo.
-* \[ ] A metodologia descreve o processo realmente realizado.
-* \[ ] A revisão compara os artigos.
-* \[ ] A conclusão responde ao problema.
-* \[ ] O resumo representa o texto completo.
+* \[x] A introdução termina com o objetivo.
+* \[x] A metodologia descreve o processo realmente realizado.
+* \[x] A revisão compara os artigos.
+* \[x] A conclusão responde ao problema.
+* \[x] O resumo representa o texto completo.
 
